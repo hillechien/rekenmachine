@@ -1,0 +1,5 @@
+*.class
+*.pyc
+*.pyo
+lib/jquery-1.6.2.js
+lib
